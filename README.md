@@ -1,6 +1,6 @@
 # findClosestNumberJS
 
-C'est la première exercice que j'ai fait sur ce genre de problème. Le temps que j'ai passé pour finir cette exercice est 1H40.
+C'est la première exercice que j'ai fait sur ce genre de problème. Le temps que j'ai passé pour finir cette exercice est 1H52.
 
 Problème Back
 - 1/ Résoudre ce problème (language JS ES6 ou PHP) :
